@@ -1,4 +1,4 @@
-KANBAN TASK MANAGEMENT APPLICATIOn
+KANBAN TASK MANAGEMENT APPLICATION
 From:- Somanshu Vyas (RA2511031010081)
 
 Project Overview:- This project is a simple Kanban Task Management Application developed as a beginner web development project. It allows users to create and manage tasks using a visual board with different workflow stages.
